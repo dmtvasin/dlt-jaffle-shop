@@ -1,0 +1,4 @@
+dlt[duckdb]
+orjson
+loguru
+tqdm
