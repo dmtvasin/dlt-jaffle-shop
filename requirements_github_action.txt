@@ -1,0 +1,6 @@
+cron-descriptor==2.0.8
+dlt==1.25.0
+duckdb==1.5.2
+loguru==0.7.3
+pipdeptree==2.9.6
+tqdm==4.67.3
